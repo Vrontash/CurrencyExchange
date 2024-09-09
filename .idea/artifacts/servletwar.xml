@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="servletwar">
+    <output-path>$PROJECT_DIR$/target/artifacts/servletwar</output-path>
+    <root id="root" />
+  </artifact>
+</component>
